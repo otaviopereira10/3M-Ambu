@@ -20,7 +20,7 @@ npm install
 
 2. **Configure ambiente:**
 ```bash
-# As variáveis já estão configuradas no sistema Lovable
+
 # Banco de dados e Edge Functions já foram criados
 ```
 
@@ -102,5 +102,3 @@ Para produção, adicione:
 Sistema **100% funcional** out of the box! 🎉
 
 ---
-
-**Desenvolvido com Lovable + Supabase**
